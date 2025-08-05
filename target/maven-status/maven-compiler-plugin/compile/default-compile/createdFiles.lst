@@ -1,0 +1,7 @@
+com\mycompany\clinica\Entidades\Medicos.class
+com\mycompany\clinica\Entidades\Consultas.class
+com\mycompany\clinica\DAO\ConsultasDAO.class
+com\mycompany\clinica\DAO\MedicosDAO.class
+com\mycompany\clinica\Entidades\Paciente.class
+com\mycompany\clinica\DAO\PacienteDAO.class
+com\mycompany\clinica\DAO\GenericDAO.class
